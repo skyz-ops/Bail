@@ -1,5 +1,5 @@
 {
-  "name": "@kiuu/baileys",
+  "name": "@skyz/baileys",
   "version": "6.7.7",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/KyuuRzy/Bail",
+  "homepage": "https://github.com/skyz-ops/Bail",
   "repository": {
-    "url": "git@github.com:KyuuRzy/Bail.git"
+    "url": "git@github.com:skyz-ops/Bail.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
